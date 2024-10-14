@@ -13,5 +13,3 @@ Utils: A helper class containing utility functions for calculations and random n
 
 
 
-📝 License
-This project is licensed under the MIT License - see the LICENSE file for details.
